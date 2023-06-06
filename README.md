@@ -1,7 +1,7 @@
 ### Hi Folks 👋
 
 My name is Thales, and I love coding.
-I've collaborated on various critical mission systems for private companies arround the globe.
+I collaborated on various critical mission systems for private companies arround the globe.
 Recently decided that is time for me to collaborate with open source projects too.
 
 - 🇧🇷 I'm Brazilian
